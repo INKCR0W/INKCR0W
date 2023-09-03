@@ -1,4 +1,4 @@
-### Hi there 👋
+<!-- ### Hi there 👋 -->
 
 <!--
 **INKCR0W/INKCR0W** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -23,6 +23,7 @@ Here are some ideas to get you started:
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=INKCR0W&label=Profile%20views&color=0e75b6&style=flat" alt="inkcr0w" /> </p>
 
 - 🌱 I’m currently learning **Golang、Rust**
+- ⚡ And an absolute **Linux** fan
 
     <!-- <h3 align="left">Connect with me:</h3> -->
     <p align="left">
