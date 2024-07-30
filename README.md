@@ -46,3 +46,6 @@ Here are some ideas to get you started:
     <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="55" height="55"/>
     </a>
     </p>
+
+
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=INKCR0W&count_private=true&theme=dark)
