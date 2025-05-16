@@ -40,6 +40,6 @@ Here are some ideas to get you started:
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=INKCR0W&theme=transparent&hide_border=true&layout=donut-vertical&langs_count=6" />
 <br/>
 <!-- https://github.com/tandpfun/skill-icons -->
-<img align="center" src="https://skillicons.dev/icons?i=c,cpp,rust,lua,py,java,js,md&theme=light" />
+<img align="center" src="https://skillicons.dev/icons?i=c,cpp,cs,rust,lua,py,java,go,js,html,css,ts,bootstrap,dotnet,md,powershell,bash,mysql,cmake,git,k8s,docker,vim,godot,linux,windows,wordpress,ps,ai,ae&theme=light" />
 </p>
 
